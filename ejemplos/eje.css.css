@@ -1,0 +1,17 @@
+@charset "UTF-8"
+/* CSS Document */
+
+  #formato{
+      text-align: centre;
+      color: navy;
+      font-size: 18px;
+      font-style: italic;
+      font-family: "Arial Black" , Gadget, sans-serif;
+      text-transform: uppercase;
+ }
+ .texto{
+     text-align: justify;
+     color: #009933;
+     font-family: "Times New Roman" , Times, serif;
+     font-size: 14px;
+     }
